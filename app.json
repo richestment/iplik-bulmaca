@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "İplik Bulmaca",
+    "slug": "iplik-bulmaca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5E6"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iplik.bulmaca"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF5E6"
+      },
+      "package": "com.iplik.bulmaca"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
